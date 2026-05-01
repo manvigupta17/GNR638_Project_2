@@ -37,7 +37,7 @@ echo "Step 2: Cloning project repository"
 echo "============================================================"
 
 # TODO: Replace with your actual public GitHub repository URL before submission.
-REPO_URL="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git"
+REPO_URL="https://github.com/manvigupta17/GNR638_Project_2.git"
 REPO_DIR="gnr638_project"
 
 if [ ! -d "$REPO_DIR" ]; then
