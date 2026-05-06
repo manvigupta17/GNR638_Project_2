@@ -38,7 +38,7 @@ echo "============================================================"
 
 # TODO: Replace with your actual public GitHub repository URL before submission.
 REPO_URL="https://github.com/manvigupta17/GNR638_Project_2.git"
-REPO_DIR="gnr638_project"
+REPO_DIR="GNR638_Project_2"
 
 if [ ! -d "$REPO_DIR" ]; then
     git clone "$REPO_URL" "$REPO_DIR"
